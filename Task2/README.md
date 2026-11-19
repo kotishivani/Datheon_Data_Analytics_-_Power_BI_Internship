@@ -1,4 +1,4 @@
-# Superstore Sales Executive Dashboard | Power BI
+# Interactive Power BI Executive Sales & Profit Dashboard
 
 ## 📌 Project Overview
 
